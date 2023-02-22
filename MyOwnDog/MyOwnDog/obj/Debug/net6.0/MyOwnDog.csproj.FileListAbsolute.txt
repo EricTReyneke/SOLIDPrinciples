@@ -1,0 +1,15 @@
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\MyOwnDog\MyOwnDog\bin\Debug\net6.0\MyOwnDog.exe
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\MyOwnDog\MyOwnDog\bin\Debug\net6.0\MyOwnDog.deps.json
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\MyOwnDog\MyOwnDog\bin\Debug\net6.0\MyOwnDog.runtimeconfig.json
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\MyOwnDog\MyOwnDog\bin\Debug\net6.0\MyOwnDog.dll
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\MyOwnDog\MyOwnDog\bin\Debug\net6.0\MyOwnDog.pdb
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\MyOwnDog\MyOwnDog\obj\Debug\net6.0\MyOwnDog.csproj.AssemblyReference.cache
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\MyOwnDog\MyOwnDog\obj\Debug\net6.0\MyOwnDog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\MyOwnDog\MyOwnDog\obj\Debug\net6.0\MyOwnDog.AssemblyInfoInputs.cache
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\MyOwnDog\MyOwnDog\obj\Debug\net6.0\MyOwnDog.AssemblyInfo.cs
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\MyOwnDog\MyOwnDog\obj\Debug\net6.0\MyOwnDog.csproj.CoreCompileInputs.cache
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\MyOwnDog\MyOwnDog\obj\Debug\net6.0\MyOwnDog.dll
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\MyOwnDog\MyOwnDog\obj\Debug\net6.0\refint\MyOwnDog.dll
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\MyOwnDog\MyOwnDog\obj\Debug\net6.0\MyOwnDog.pdb
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\MyOwnDog\MyOwnDog\obj\Debug\net6.0\MyOwnDog.genruntimeconfig.cache
+C:\Users\EricReyneke\Documents\EricReyneke\C#Practice\MyOwnDog\MyOwnDog\obj\Debug\net6.0\ref\MyOwnDog.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "TcN49W4tjh1iYXELA1HhYqu31AJZiQnnEhf0Hcluxir7aLyX+5OZJYLFb6p0v8nK7TOL06zr5oflbdGZbMfreg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\EricReyneke\\Documents\\EricReyneke\\C#Practice\\MyOwnDog\\MyOwnDog\\MyOwnDog.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EricReyneke\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\EricReyneke\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\EricReyneke\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\EricReyneke\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
